@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Maa Samaleswari Cultural Shrine Badge -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M100,15 C146,15 185,54 185,100 C185,146 146,185 100,185 C54,185 15,146 15,100 C15,54 54,15 100,15 Z" />
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M100,24 C141,24 176,59 176,100 C176,141 141,176 100,176 C59,176 24,141 24,100 C24,59 59,24 100,24 Z" />
+    <!-- Divine Trishul (Trident) & Tilak -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M97,45 L103,45 L103,140 L97,140 Z M80,60 C80,80 97,95 97,95 L97,75 C90,75 85,70 85,60 Z M120,60 C120,80 103,95 103,95 L103,75 C110,75 115,70 115,60 Z" />
+    <!-- Lotus Base -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M100,125 C80,125 70,145 100,155 C130,145 120,125 100,125 Z M70,135 C55,145 75,160 90,152 Z M130,135 C145,145 125,160 110,152 Z" />
+    <!-- Golden Halo rays -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M100,32 L103,40 L97,40 Z M145,55 L138,60 L142,65 Z M55,55 L62,60 L58,65 Z" />
+</vector>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Traditional Sambalpuri Folk Percussion - Dhol & Nishan -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M10,10 h180 v180 h-180 z" />
+    <!-- Terracotta Badge Outer -->
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M20,30 C20,20 30,20 40,20 L160,20 C170,20 180,20 180,30 L180,170 C180,180 170,180 160,180 L40,180 C30,180 20,180 20,170 Z" />
+    <!-- Dhol Body (Barrel Drum) -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M50,70 C60,60 120,60 130,70 L135,130 C125,140 55,140 45,130 Z" />
+    <!-- Dhol Leather Straps and Tightening Ropes -->
+    <path
+        android:fillColor="#FFC107"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="2"
+        android:pathData="M52,70 L133,130 M52,130 L133,70 M90,62 L90,138" />
+    <!-- Dhol Drumheads -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M48,70 C42,80 42,120 48,130 C54,120 54,80 48,70 Z" />
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M132,70 C138,80 138,120 132,130 C126,120 126,80 132,70 Z" />
+    <!-- Drumsticks (Chhadi) -->
+    <path
+        android:fillColor="#8D6E63"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M35,50 L80,95 M150,55 L105,100" />
+    <!-- Nishan Iron Kettle Horn Horns -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M135,45 C150,35 165,50 160,70 L145,65 Z" />
+    <!-- Sambalpuri Ikat Border at Bottom -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M30,160 L40,150 L50,160 L60,150 L70,160 L80,150 L90,160 L100,150 L110,160 L120,150 L130,160 L140,150 L150,160 L160,150 L170,160 Z" />
+</vector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Sambalpuri Handloom Ikat & Pasapalli Motif -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M15,15 h170 v170 h-170 z" />
+    <!-- Outer Red Frame -->
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M20,20 h160 v160 h-160 z" />
+    <!-- Pasapalli Checkerboard (Black & White with Red Accents) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M35,35 h30 v30 h-30 z M95,35 h30 v30 h-30 z M65,65 h30 v30 h-30 z M125,65 h30 v30 h-30 z M35,95 h30 v30 h-30 z M95,95 h30 v30 h-30 z M65,125 h30 v30 h-30 z M125,125 h30 v30 h-30 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,35 h30 v30 h-30 z M125,35 h30 v30 h-30 z M35,65 h30 v30 h-30 z M95,65 h30 v30 h-30 z M65,95 h30 v30 h-30 z M125,95 h30 v30 h-30 z M35,125 h30 v30 h-30 z M95,125 h30 v30 h-30 z" />
+    <!-- Central Ikat Flower / Shankha Conch Accent -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M95,80 L115,95 L95,110 L75,95 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M95,87 L103,95 L95,103 L87,95 Z" />
+    <!-- Traditional Serrated Edge (Kumbha) Border -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M25,25 L35,35 L45,25 L55,35 L65,25 L75,35 L85,25 L95,35 L105,25 L115,35 L125,25 L135,35 L145,25 L155,35 L165,25 L175,35 Z" />
+</vector>

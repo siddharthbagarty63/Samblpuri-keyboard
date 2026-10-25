@@ -1,0 +1,6 @@
+{
+  "name": "Sambalpuri Keyboard",
+  "description": "Native Android keyboard and cultural sticker platform with Odia script and Sambalpuri expressions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

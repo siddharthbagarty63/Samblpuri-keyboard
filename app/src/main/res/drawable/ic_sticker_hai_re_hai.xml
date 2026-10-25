@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Hai Re Hai Celebration / Joy Sticker -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M100,15 L122,60 L172,40 L150,90 L195,115 L145,135 L160,185 L115,160 L100,200 L85,160 L40,185 L55,135 L5,115 L50,90 L28,40 L78,60 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M100,35 L116,70 L155,55 L138,95 L172,115 L133,130 L145,170 L110,150 L100,180 L90,150 L55,170 L67,130 L28,115 L62,95 L45,55 L84,70 Z" />
+    <!-- Happy Face Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,75 C115,75 128,88 128,105 C128,122 115,135 100,135 C85,135 72,122 72,105 C72,88 85,75 100,75 Z" />
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M88,98 C88,94 92,94 92,98 C92,102 88,102 88,98 Z M108,98 C108,94 112,94 112,98 C112,102 108,102 108,98 Z" />
+    <!-- Big joyful smile -->
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M88,112 C92,124 108,124 112,112 C108,116 92,116 88,112 Z" />
+</vector>

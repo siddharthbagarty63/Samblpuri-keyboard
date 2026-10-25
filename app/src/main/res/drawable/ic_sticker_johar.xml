@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Johar (Namaste) Greeting with Sambalpuri Gamukha -->
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M100,10 C150,10 190,50 190,100 C190,150 150,190 100,190 C50,190 10,150 10,100 C10,50 50,10 100,10 Z" />
+    <!-- Gamukha Scarf Border Arc -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M30,100 C30,138 62,170 100,170 C138,170 170,138 170,100 C170,80 160,65 145,55 L155,45 C175,60 185,80 185,100 C185,147 147,185 100,185 C53,185 15,147 15,100 Z" />
+    <!-- Folded Hands (Pranam / Johar) -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M100,45 C98,45 95,48 95,55 L95,95 C92,95 85,90 80,95 C75,100 82,108 90,118 L95,145 L105,145 L110,118 C118,108 125,100 120,95 C115,90 108,95 105,95 L105,55 C105,48 102,45 100,45 Z" />
+    <!-- Red Thread / Sacred Bandha Accents -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M95,135 h10 v4 h-10 z M95,142 h10 v3 h-10 z" />
+    <!-- Sunburst of respect -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M100,25 L103,32 L97,32 Z M75,35 L81,40 L77,43 Z M125,35 L123,43 L119,40 Z" />
+</vector>

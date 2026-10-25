@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Festive Circular Background Badge -->
+    <path
+        android:fillColor="#8B1E0F"
+        android:pathData="M100,10 C149.7,10 190,50.3 190,100 C190,149.7 149.7,190 100,190 C50.3,190 10,149.7 10,100 C10,50.3 50.3,10 100,10 Z" />
+    <!-- Golden Border Ring with Ikat Serrations -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M100,18 C145.3,18 182,54.7 182,100 C182,145.3 145.3,182 100,182 C54.7,182 18,145.3 18,100 C18,54.7 54.7,18 100,18 Z M100,24 C58,24 24,58 24,100 C24,142 58,176 100,176 C142,176 176,142 176,100 C176,58 142,24 100,24 Z" />
+    <!-- Sacred Kalash Pot and Rice Ear (Dhana Shisa) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M85,90 C85,85 115,85 115,90 L118,110 C122,125 118,138 100,138 C82,138 78,125 82,110 Z" />
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M92,90 L108,90 L104,115 C102,126 98,126 96,115 Z" />
+    <!-- Rice Ear Grain Motif -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M100,60 C100,75 92,85 92,85 C92,85 108,85 100,60 Z M90,68 C80,72 82,82 82,82 C82,82 95,80 90,68 Z M110,68 C120,72 118,82 118,82 C118,82 105,80 110,68 Z" />
+    <!-- Decorative Sambalpuri Ribbon / Banner -->
+    <path
+        android:fillColor="#D84315"
+        android:pathData="M35,145 L165,145 L155,170 L45,170 Z" />
+    <!-- White Floral Accents -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,150 L103,157 L110,157 L104,161 L106,167 L100,163 L94,167 L96,161 L90,157 L97,157 Z" />
+</vector>
